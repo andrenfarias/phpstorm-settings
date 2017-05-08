@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd" location="$USER_HOME$/ownCloud/CT/DEPR/Templates/Depr/xhtml-math11-f.dtd" />
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4546b36f-8084-4c48-8a1c-b446f89f7a2d" name="curso" url="http://127.0.0.1:8000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="fc3f7658-e609-41cd-accf-c46fb5901d1a" name="Homestead Laravel Estoque" url="http://estoque.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ed99bed3-f07e-4e9d-9b76-46061ec27319" name="Homestead PHP 7" url="http://codeemailmkt.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
