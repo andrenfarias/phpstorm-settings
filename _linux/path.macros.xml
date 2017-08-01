@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="CODE" value="/home/andre/Dropbox/Code" />
+    <macro name="CODE" value="/home/andre/Projetos/GitHub" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />
