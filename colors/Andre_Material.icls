@@ -4,7 +4,7 @@
     <property name="created">2017-04-26T16:47:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-09-14T16:18:31</property>
+    <property name="modified">2017-09-14T17:02:03</property>
     <property name="originalScheme">Material Theme - Default copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -17,14 +17,8 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="22" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
